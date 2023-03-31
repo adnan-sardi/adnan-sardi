@@ -9,7 +9,7 @@
 
 <p align="left"> <a href="https://twitter.com/adnan_sardi" target="blank"><img src="https://img.shields.io/twitter/follow/adnan_sardi?logo=twitter&style=for-the-badge" alt="adnan_sardi" /></a> </p>
 
-- 🔭 I’m currently working on **Heart Disease Project**
+- 🔭 I’m currently working on **Forecast Walmart's stock**
 
 - 🌱 I’m currently learning **Quantum physics and data analytic**
 

@@ -24,7 +24,6 @@
 <a href="https://twitter.com/adnan_sardi" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="adnan_sardi" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/adnan-sardi-26b330213/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="adnan sardi" height="30" width="40" /></a>
 <a href="https://kaggle.com/adnansardi26" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="adnan sardi" height="30" width="40" /></a>
-<a href="https://instagram.com/addeeee_26" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="addeeee_26" height="30" width="40" /></a>
 <a href="https://www.behance.net/adnansardi" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/behance.svg" alt="adnan sardi" height="30" width="40" /></a>
 <a href="https://www.leetcode.com/adnan_sardi" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="adnan_sardi" height="30" width="40" /></a>
 </p>

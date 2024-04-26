@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Adnan Sardi</h1>
-<h3 align="center">A passionate data analyst from Italy</h3>
+<h3 align="center">A passionate data analyst from Canada</h3>
 
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1292677/screenshots/6139167/avento.gif">
 

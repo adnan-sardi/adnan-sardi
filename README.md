@@ -9,11 +9,11 @@
 
 <p align="left"> <a href="https://twitter.com/adnan_sardi" target="blank"><img src="https://img.shields.io/twitter/follow/adnan_sardi?logo=twitter&style=for-the-badge" alt="adnan_sardi" /></a> </p>
 
-- 🔭 I’m currently working on **Outlier**
+- 🔭 I’m currently working on **CalorieTrackerAnalysis**
 
 - 🌱 I’m currently learning **Machine Learning and AI**
 
-- 🤝 I’m looking for help with **Trading Bot Code**
+- 🤝 I’m looking for help with **CalorieTrackerAnalysis**
 
 - 💬 Ask me about **Data analytics, personal finance, health or mental grow-up**
 

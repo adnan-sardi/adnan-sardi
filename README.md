@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Adnan Sardi</h1>
-<h3 align="center">A passionate data analyst from Canada</h3>
+<h3 align="center">AI and finance appassionate from Canada</h3>
 
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1292677/screenshots/6139167/avento.gif">
 
@@ -9,13 +9,13 @@
 
 <p align="left"> <a href="https://twitter.com/adnan_sardi" target="blank"><img src="https://img.shields.io/twitter/follow/adnan_sardi?logo=twitter&style=for-the-badge" alt="adnan_sardi" /></a> </p>
 
-- 🔭 I’m currently working on **CalorieTrackerAnalysis**
+- 🔭 I’m currently working on **My new website**
 
 - 🌱 I’m currently learning **Machine Learning and AI**
 
-- 🤝 I’m looking for help with **CalorieTrackerAnalysis**
+- 🤝 I’m looking for help with **Developing AI agent**
 
-- 💬 Ask me about **Data analytics, personal finance, health or mental grow-up**
+- 💬 Ask me about **Analytics, personal finance, or health**
 
 - 📫 How to reach me **adnansardi34@gmail.com**
 
